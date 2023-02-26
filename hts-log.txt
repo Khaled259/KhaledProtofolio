@@ -1,14 +1,28 @@
-HTTrack3.49-2+htsswf+htsjava launched on Sun, 26 Feb 2023 11:06:41 at https://marcotavora.squarespace.com/portfolio-marco-tavora +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
-(winhttrack -qwC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "en, *" https://marcotavora.squarespace.com/portfolio-marco-tavora -O1 "E:\desk\Websites\KhaledScience" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
-
-Information, Warnings and Errors reported for this mirror:
-note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
-	such as username/password authentication for websites mirrored in this project
-	do not share these files/folders if you want these information to remain private
-
-11:09:35	Error: 	"Not Found" (404) at link https://marcotavora.squarespace.com/portfolio-new-2 (from https://marcotavora.squarespace.com/)
-11:09:35	Error: 	"Not Found" (404) at link https://marcotavora.squarespace.com/data-science-projects (from https://marcotavora.squarespace.com/contact)
-11:09:35	Error: 	"Not Found" (404) at link https://marcotavora.squarespace.com/physres (from https://marcotavora.squarespace.com/contact)
-
-HTTrack Website Copier/3.49-2 mirror complete in 2 minutes 54 seconds : 90 links scanned, 86 files written (28438719 bytes overall) [23386551 bytes received at 134405 bytes/sec], 7136287 bytes transferred using HTTP compression in 27 files, ratio 26%, 2.2 requests per connection
-(3 errors, 0 warnings, 0 messages)
+HTTrack3.49-2+htsswf+htsjava launched on Sun, 26 Feb 2023 11:06:41 at https://KhaledScience.squarespace.com/portfolio-marco-tavora +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+
+(winhttrack -qwC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "en, *" https://KhaledScience.squarespace.com/portfolio-marco-tavora -O1 "E:\desk\Websites\KhaledScience" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
+
+
+
+Information, Warnings and Errors reported for this mirror:
+
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+
+	such as username/password authentication for websites mirrored in this project
+
+	do not share these files/folders if you want these information to remain private
+
+
+
+11:09:35	Error: 	"Not Found" (404) at link https://KhaledScience.squarespace.com/portfolio-new-2 (from https://KhaledScience.squarespace.com/)
+
+11:09:35	Error: 	"Not Found" (404) at link https://KhaledScience.squarespace.com/data-science-projects (from https://KhaledScience.squarespace.com/contact)
+
+11:09:35	Error: 	"Not Found" (404) at link https://KhaledScience.squarespace.com/physres (from https://KhaledScience.squarespace.com/contact)
+
+
+
+HTTrack Website Copier/3.49-2 mirror complete in 2 minutes 54 seconds : 90 links scanned, 86 files written (28438719 bytes overall) [23386551 bytes received at 134405 bytes/sec], 7136287 bytes transferred using HTTP compression in 27 files, ratio 26%, 2.2 requests per connection
+
+(3 errors, 0 warnings, 0 messages)
+
